@@ -1,0 +1,7 @@
+.venv
+.vscode
+.__pychache__
+instance/
+*.pyc 
+.DS_Store
+startup.txt
