@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import secrets
 import os
 
+
 from db import db
 import models
 from blocklist import BLOCKLIST
